@@ -2,7 +2,6 @@
 
 An end-to-end **AI-powered voice assistant** for handling everyday commands like checking the time, opening apps, searching content, and more. Aura provides a seamless local pipeline that takes **voice input from a web interface** and outputs **spoken responses**, with no external services required beyond installed libraries.
 
-https://github.com/user-attachments/assets/acd041d9-7497-4baa-8ab9-614914d058f5
 ---
 
 ## Overview
